@@ -1,0 +1,9 @@
+Seed Type,Set Number,Source Orientation,Destination Orientation,Accuracy
+Bad,1,right,front,100.0
+Bad,1,left,front,100.0
+Bad,1,top,front,100.0
+Bad,1,rear,front,100.0
+Bad,2,right,front,100.0
+Bad,2,left,front,100.0
+Bad,2,top,front,100.0
+Bad,2,rear,front,100.0
